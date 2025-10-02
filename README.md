@@ -1,1 +1,1 @@
-# Library-Fine-ALGO
+# Library-Fine-ALGO.This solution calculates library fines by checking dates hierarchically: first comparing years, then months within the same year, and finally days within the same month and year. It applies fixed fine amounts (10000, 500/month, or 15/day) based on which date component exceeds the due date.
